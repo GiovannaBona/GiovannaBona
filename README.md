@@ -2,8 +2,6 @@
 
 ### Olá, bem vindo(a) ao meu GitHub!
 
-<img src="https://img.shields.io/static/v1?label=Overview&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
 <p align="left"> 
   Sou a Giovanna e estou trabalhando como Jovem Aprendiz na Pinheiro Neto Advogados. Também estou estudando Sistemas para Internet no SENAC, no 4º semestre. Estou animada em aprender e crescer tanto no trabalho quanto na faculdade. Adoro tecnologia e estou sempre buscando novas oportunidades para me desenvolver.
 </p>
