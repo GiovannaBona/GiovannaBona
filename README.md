@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Me chamo Giovanna, tenho 21 anos, sou formada em Sistemas para Internet pelo SENAC e sou de São Paulo – Capital.<br><br><br>🔭 Tenho experiência como Jovem Aprendiz em TI – Field Service no escritório Pinheiro Neto Advogados.<br><br>📚 No momento, estou me aprofundando na área de UI/UX Design, com foco em criar experiências digitais intuitivas e envolventes.<br><br>⚡ No meu tempo livre, adoro ler, desenhar e criar templates de sites no Figma.</p>
+<p align="left">Me chamo Giovanna, tenho 21 anos, sou formada em Sistemas para Internet pelo SENAC e sou de São Paulo – Capital.<br><br><br>📚 No momento, estou me aprofundando na área de UI/UX Design, com foco em criar experiências digitais intuitivas e envolventes.<br><br>⚡ No meu tempo livre, adoro ler, desenhar e criar templates de sites no Figma.</p>
 
 ###
 
